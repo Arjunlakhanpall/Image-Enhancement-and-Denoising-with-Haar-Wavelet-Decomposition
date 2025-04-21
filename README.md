@@ -111,7 +111,8 @@ plt.show()
 - **Enhanced Images:** The images after histogram equalization, providing better contrast.  
 - **Fused Image:** The combined image that merges features from both images using wavelet fusion.  
 - **Denoised Image:** The image after noise reduction, making it clearer and more detailed.
-  ![image](https://github.com/user-attachments/assets/ae448a52-1a64-40d7-a5a7-7c13a4481aa7)
+  
+![image](https://github.com/user-attachments/assets/0c15caaa-4260-4ba9-a086-5932fe17a700)
 
 
 
